@@ -1,0 +1,16 @@
+Vivado Simulator 2016.4
+Time resolution is 1 ps
+AXI WRITE 4 = 00000434
+
+MONITOR S_AXI_BVALID: 0 @ 100000
+AXI Write accepted
+MONITOR S_AXI_BVALID: 1 @ 125000
+AXI Write complete
+AXI WRITE 0 = 90030002
+
+MONITOR S_AXI_BVALID: 0 @ 135000
+AXI Write accepted
+MONITOR S_AXI_BVALID: 1 @ 155000
+AXI Write complete
+Waiting for digit 0
+MONITOR S_AXI_BVALID: 0 @ 165000

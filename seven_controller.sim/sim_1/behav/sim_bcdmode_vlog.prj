@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  "../../../seven_controller.srcs/sources_1/imports/vid/bcd2seven.v"
+verilog xil_defaultlib  "../../../seven_controller.srcs/sources_1/imports/vid/timekeeper.v"
+verilog xil_defaultlib  "../../../seven_controller.srcs/sources_1/imports/vid/bitmap_controller.v"
+verilog xil_defaultlib  "../../../seven_controller.srcs/sources_1/imports/vid/sevenseg_controller_v1_0_S00_AXI.v"
+verilog xil_defaultlib  "../../../seven_controller.srcs/sources_1/imports/vid/bcd_controller.v"
+verilog xil_defaultlib  "../../../seven_controller.srcs/sources_1/imports/vid/sevenseg_controller_v1_0.v"
+verilog xil_defaultlib  "../../../seven_controller.srcs/sim_1/imports/vid/sim_bcdmode.v"
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

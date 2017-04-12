@@ -1,0 +1,12 @@
+0.6
+2016.4
+Dec 14 2016
+22:58:16
+C:/vivado/cmpe420/seven_controller/seven_controller.sim/sim_1/behav/glbl.v,1481753704,verilog,,,,glbl,,,,,,,,
+C:/vivado/cmpe420/seven_controller/seven_controller.srcs/sim_1/imports/vid/sim_bcdmode.v,1489766857,verilog,,,,sim_bcdmode,,,,,,,,
+C:/vivado/cmpe420/seven_controller/seven_controller.srcs/sources_1/imports/vid/bcd2seven.v,1489682605,verilog,,,,bcd2seven,,,,,,,,
+C:/vivado/cmpe420/seven_controller/seven_controller.srcs/sources_1/imports/vid/bcd_controller.v,1489685460,verilog,,,,bcd_controller,,,,,,,,
+C:/vivado/cmpe420/seven_controller/seven_controller.srcs/sources_1/imports/vid/bitmap_controller.v,1489684140,verilog,,,,bitmap_controller,,,,,,,,
+C:/vivado/cmpe420/seven_controller/seven_controller.srcs/sources_1/imports/vid/sevenseg_controller_v1_0.v,1489766889,verilog,,,,sevenseg_controller_v1_0,,,,,,,,
+C:/vivado/cmpe420/seven_controller/seven_controller.srcs/sources_1/imports/vid/sevenseg_controller_v1_0_S00_AXI.v,1489766979,verilog,,,,sevenseg_controller_v1_0_S00_AXI,,,,,,,,
+C:/vivado/cmpe420/seven_controller/seven_controller.srcs/sources_1/imports/vid/timekeeper.v,1489685668,verilog,,,,timekeeper,,,,,,,,
